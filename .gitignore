@@ -4,5 +4,6 @@ target
 .classpath
 .settings
 .project
+.svn
 pom.xml.versionsBackup
 *~
