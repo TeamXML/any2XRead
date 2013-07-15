@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa
+END
+RDFa11ParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa/RDFa11ParserTest.java
+END
+ExtractionExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa/ExtractionExceptionTest.java
+END
+RDFaExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa/RDFaExtractorTest.java
+END
+RDFa11ExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa/RDFa11ExtractorTest.java
+END
+AbstractRDFaExtractorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa/AbstractRDFaExtractorTestCase.java
+END
+XSLTStylesheetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/rdfa/XSLTStylesheetTest.java
+END

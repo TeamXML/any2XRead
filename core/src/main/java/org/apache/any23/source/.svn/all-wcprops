@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source
+END
+MemCopyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/MemCopyFactory.java
+END
+HTTPDocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/HTTPDocumentSource.java
+END
+LocalCopyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/LocalCopyFactory.java
+END
+ByteArrayDocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/ByteArrayDocumentSource.java
+END
+StringDocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/StringDocumentSource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/package-info.java
+END
+FileDocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/source/FileDocumentSource.java
+END

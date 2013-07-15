@@ -21,7 +21,7 @@
   <parent>
     <groupId>org.apache.any23</groupId>
     <artifactId>apache-any23</artifactId>
-    <version>0.9.0-SNAPSHOT</version>
+    <version>0.8.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
@@ -47,14 +47,6 @@
       <groupId>org.apache.any23</groupId>
       <artifactId>apache-any23-nquads</artifactId>
       <version>${project.version}</version>
-    </dependency>
-
-    <!-- Logging -->
-    <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-log4j12</artifactId>
-      <version>${slf4j.logger.version}</version>
-      <scope>test</scope>
     </dependency>
 
     <!-- BEGIN: Servlet Deps. -->
@@ -88,6 +80,11 @@
     </dependency>
     <!-- END: Test Dependencies -->
 
+    <dependency>
+    	<groupId>org.openrdf.sesame</groupId>
+    	<artifactId>sesame-queryparser-sparql</artifactId>
+    	<version>2.7.2</version>
+    </dependency>
   </dependencies>
 
   <build>
@@ -113,6 +110,13 @@
               <directory>${basedir}/src/main/resources/</directory>
               <targetPath>/resources</targetPath>
               <filtering>true</filtering>
+            </resource>
+            <resource>
+              <directory>${basedir}/../</directory>
+              <targetPath>/META-INF</targetPath>
+              <includes>
+                <include>DISCLAIMER.txt</include>
+              </includes>
             </resource>
           </webResources>
         </configuration>

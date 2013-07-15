@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule
+END
+OpenGraphNamespaceFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule/OpenGraphNamespaceFix.java
+END
+MetaNameMisuseRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule/MetaNameMisuseRule.java
+END
+MissingOpenGraphNamespaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule/MissingOpenGraphNamespaceRule.java
+END
+MetaNameMisuseFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule/MetaNameMisuseFix.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule/package-info.java
+END
+AboutNotURIRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/rule/AboutNotURIRule.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1435994/any23/trunk/mime/src/main/resources/org/apache/any23/mime
+END
+tika-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1435994/any23/trunk/mime/src/main/resources/org/apache/any23/mime/tika-config.xml
+END
+mimetypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1435729/any23/trunk/mime/src/main/resources/org/apache/any23/mime/mimetypes.xml
+END

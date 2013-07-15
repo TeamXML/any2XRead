@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn
+END
+simple-friend.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/simple-friend.html
+END
+multiple-friends.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/multiple-friends.html
+END
+encoding-utf-8.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/encoding-utf-8.html
+END
+simple-me.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/simple-me.html
+END
+with-relative-uri.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/with-relative-uri.html
+END
+encoding-utf-8-after-title.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/encoding-utf-8-after-title.html
+END
+tagsoup.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/tagsoup.html
+END
+no-rel.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/no-rel.html
+END
+upcase-href.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/upcase-href.html
+END
+encoding-utf-8.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/encoding-utf-8.xhtml
+END
+encoding-iso-8859-1.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/encoding-iso-8859-1.html
+END
+some-links-without-rel.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/some-links-without-rel.html
+END
+strip-spaces.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/strip-spaces.html
+END
+mixed-case.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/mixed-case.html
+END
+me-and-sweetheart.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/me-and-sweetheart.html
+END
+no-valid-rel.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/no-valid-rel.html
+END
+multiple-rel.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/multiple-rel.html
+END
+encoding-iso-8859-1.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/xfn/encoding-iso-8859-1.xhtml
+END

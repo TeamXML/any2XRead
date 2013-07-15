@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1448871/any23/trunk/core/src/main/java/org/apache/any23/extractor
+END
+SingleDocumentExtractionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/SingleDocumentExtractionReport.java
+END
+SingleDocumentExtraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/SingleDocumentExtraction.java
+END
+SimpleExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/SimpleExtractorFactory.java
+END
+TagSoupExtractionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/TagSoupExtractionResult.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/package-info.java
+END
+ExtractionResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/ExtractionResultImpl.java
+END
+ExtractorRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/ExtractorRegistryImpl.java
+END
+ExampleInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/ExampleInputOutput.java
+END

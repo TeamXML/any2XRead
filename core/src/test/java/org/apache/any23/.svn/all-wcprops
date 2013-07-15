@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1448888/any23/trunk/core/src/test/java/org/apache/any23
+END
+Any23Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1447509/any23/trunk/core/src/test/java/org/apache/any23/Any23Test.java
+END
+AbstractAny23TestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/AbstractAny23TestBase.java
+END
+SesameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/SesameTest.java
+END
+Any23OnlineTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/Any23OnlineTestBase.java
+END

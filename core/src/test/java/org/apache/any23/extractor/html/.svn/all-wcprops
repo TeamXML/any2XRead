@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html
+END
+HCalendarExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HCalendarExtractorTest.java
+END
+TurtleHTMLExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/TurtleHTMLExtractorTest.java
+END
+AdrExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/AdrExtractorTest.java
+END
+HTMLMetaExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HTMLMetaExtractorTest.java
+END
+EncodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/EncodingTest.java
+END
+AbstractExtractorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/AbstractExtractorTestCase.java
+END
+TagSoupParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/TagSoupParserTest.java
+END
+DomUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/DomUtilsTest.java
+END
+HResumeExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HResumeExtractorTest.java
+END
+HRecipeExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HRecipeExtractorTest.java
+END
+RDFMergerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/RDFMergerTest.java
+END
+HTMLFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HTMLFixture.java
+END
+HCardExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HCardExtractorTest.java
+END
+TitleExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/TitleExtractorTest.java
+END
+HeadLinkExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HeadLinkExtractorTest.java
+END
+HListingExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HListingExtractorTest.java
+END
+SpeciesExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/SpeciesExtractorTest.java
+END
+HTMLDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HTMLDocumentTest.java
+END
+SpanCloserInputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/SpanCloserInputStreamTest.java
+END
+HReviewExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/HReviewExtractorTest.java
+END
+XFNExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/XFNExtractorTest.java
+END
+LicenseExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/html/LicenseExtractorTest.java
+END

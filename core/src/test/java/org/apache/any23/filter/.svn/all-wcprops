@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/filter
+END
+IgnoreAccidentalRDFaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/filter/IgnoreAccidentalRDFaTest.java
+END
+ExtractionContextBlockerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/filter/ExtractionContextBlockerTest.java
+END

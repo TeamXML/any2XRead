@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1383420/any23/trunk/nquads/src/main/java/org/apache/any23/io/nquads
+END
+NQuadsParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/nquads/src/main/java/org/apache/any23/io/nquads/NQuadsParserFactory.java
+END
+NQuadsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/nquads/src/main/java/org/apache/any23/io/nquads/NQuadsParser.java
+END
+NQuadsWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/nquads/src/main/java/org/apache/any23/io/nquads/NQuadsWriterFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/nquads/src/main/java/org/apache/any23/io/nquads/package-info.java
+END
+NQuadsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/nquads/src/main/java/org/apache/any23/io/nquads/NQuadsWriter.java
+END

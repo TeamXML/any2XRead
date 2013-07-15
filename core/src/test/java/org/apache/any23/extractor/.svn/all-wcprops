@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor
+END
+SingleDocumentExtractionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/test/java/org/apache/any23/extractor/SingleDocumentExtractionTest.java
+END
+ExtractionResultImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/ExtractionResultImplTest.java
+END
+ExtractionAPITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/ExtractionAPITest.java
+END
+ExtractionParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/ExtractionParametersTest.java
+END
+MockTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/MockTripleHandler.java
+END

@@ -1,0 +1,79 @@
+10
+
+dir
+1496389
+http://svn.apache.org/repos/asf/any23/trunk/test-resources/src/test/resources/application
+http://svn.apache.org/repos/asf
+
+
+
+2012-08-10T00:40:13.416220Z
+1371537
+ansell
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+atom
+dir
+
+gzip
+dir
+
+hcalendar
+dir
+
+messy_html
+dir
+
+nquads
+dir
+
+rdfa
+dir
+
+rdfn3
+dir
+
+rdfxml
+dir
+
+rss1
+dir
+
+rss2
+dir
+
+trix
+dir
+
+turtle
+dir
+
+wsdl
+dir
+
+xhtml
+dir
+
+xhtml2
+dir
+
+xoxo
+dir
+
+zip
+dir
+

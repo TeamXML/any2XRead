@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/test/java/org/apache/any23/cli
+END
+MicrodataParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1447509/any23/trunk/core/src/test/java/org/apache/any23/cli/MicrodataParserTest.java
+END
+MimeDetectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/cli/MimeDetectorTest.java
+END
+ToolTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/cli/ToolTestBase.java
+END
+PluginVerifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/cli/PluginVerifierTest.java
+END
+ToolRunnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/cli/ToolRunnerTest.java
+END
+ExtractorDocumentationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/test/java/org/apache/any23/cli/ExtractorDocumentationTest.java
+END
+RoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/cli/RoverTest.java
+END
+VocabPrinterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/cli/VocabPrinterTest.java
+END

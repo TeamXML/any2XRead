@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/turtle
+END
+test2
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/turtle/test2
+END
+test3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/turtle/test3
+END
+geolinkeddata.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/turtle/geolinkeddata.ttl
+END
+test1
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/turtle/test1
+END

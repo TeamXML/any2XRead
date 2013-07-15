@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1448871/any23/trunk/core/src/main/java/org/apache/any23/extractor/html
+END
+TagSoupParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/TagSoupParser.java
+END
+DomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/DomUtils.java
+END
+HRecipeExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HRecipeExtractor.java
+END
+TurtleHTMLExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/TurtleHTMLExtractorFactory.java
+END
+HCalendarExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HCalendarExtractorFactory.java
+END
+HCardExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HCardExtractor.java
+END
+TitleExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/TitleExtractor.java
+END
+SpanCloserInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/SpanCloserInputStream.java
+END
+XFNExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/XFNExtractorFactory.java
+END
+HReviewExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HReviewExtractor.java
+END
+HCardName.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HCardName.java
+END
+HListingExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HListingExtractorFactory.java
+END
+SpeciesExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/SpeciesExtractorFactory.java
+END
+HeadLinkExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HeadLinkExtractorFactory.java
+END
+TurtleHTMLExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/TurtleHTMLExtractor.java
+END
+GeoExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/GeoExtractorFactory.java
+END
+HTMLMetaExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HTMLMetaExtractorFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/package-info.java
+END
+AdrExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/AdrExtractor.java
+END
+HTMLMetaExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HTMLMetaExtractor.java
+END
+HResumeExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HResumeExtractor.java
+END
+DocumentReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/DocumentReport.java
+END
+ICBMExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/ICBMExtractorFactory.java
+END
+HeadLinkExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HeadLinkExtractor.java
+END
+MicroformatExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/MicroformatExtractor.java
+END
+HListingExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HListingExtractor.java
+END
+SpeciesExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/SpeciesExtractor.java
+END
+LicenseExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/LicenseExtractorFactory.java
+END
+HReviewExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HReviewExtractorFactory.java
+END
+HTMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HTMLDocument.java
+END
+HReviewAggregateExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1448871/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HReviewAggregateExtractorFactory.java
+END
+HReviewAggregateExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1448871/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HReviewAggregateExtractor.java
+END
+XFNExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/XFNExtractor.java
+END
+LicenseExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/LicenseExtractor.java
+END
+ICBMExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/ICBMExtractor.java
+END
+TitleExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/TitleExtractorFactory.java
+END
+HCardExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HCardExtractorFactory.java
+END
+HCalendarExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HCalendarExtractor.java
+END
+HRecipeExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HRecipeExtractorFactory.java
+END
+HResumeExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/HResumeExtractorFactory.java
+END
+EntityBasedMicroformatExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/EntityBasedMicroformatExtractor.java
+END
+AdrExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/AdrExtractorFactory.java
+END
+GeoExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/html/GeoExtractor.java
+END

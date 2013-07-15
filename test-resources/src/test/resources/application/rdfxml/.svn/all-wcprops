@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml
+END
+test2
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml/test2
+END
+test3
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml/test3
+END
+physics.owl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml/physics.owl
+END
+error.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml/error.rdf
+END
+foaf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml/foaf
+END
+test1
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfxml/test1
+END

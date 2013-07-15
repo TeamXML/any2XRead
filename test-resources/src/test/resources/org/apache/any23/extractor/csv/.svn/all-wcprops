@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1412222/any23/trunk/test-resources/src/test/resources/org/apache/any23/extractor/csv
+END
+test-comma.csv
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/extractor/csv/test-comma.csv
+END
+test-tab.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/extractor/csv/test-tab.csv
+END
+test-missing.csv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1412222/any23/trunk/test-resources/src/test/resources/org/apache/any23/extractor/csv/test-missing.csv
+END
+test-type.csv
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/extractor/csv/test-type.csv
+END
+test-semicolon.csv
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/extractor/csv/test-semicolon.csv
+END

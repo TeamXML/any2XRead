@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1435720/any23/trunk/api/src/main/java/org/apache/any23/extractor
+END
+IssueReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/IssueReport.java
+END
+ExtractorGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractorGroup.java
+END
+ExtractionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractionException.java
+END
+ExtractorDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1435720/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractorDescription.java
+END
+ExtractionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractionContext.java
+END
+ExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1435720/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractorFactory.java
+END
+ExtractionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractionResult.java
+END
+Extractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/Extractor.java
+END
+ExtractionParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractionParameters.java
+END
+ExtractorRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1435720/any23/trunk/api/src/main/java/org/apache/any23/extractor/ExtractorRegistry.java
+END

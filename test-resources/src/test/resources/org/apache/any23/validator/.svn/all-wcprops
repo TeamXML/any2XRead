@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/validator
+END
+invalid-rdfa-about.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/validator/invalid-rdfa-about.html
+END
+missing-og-namespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/validator/missing-og-namespace.html
+END
+meta-name-misuse.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/org/apache/any23/validator/meta-name-misuse.html
+END

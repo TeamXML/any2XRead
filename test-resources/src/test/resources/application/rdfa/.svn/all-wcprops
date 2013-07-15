@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfa
+END
+test1.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfa/test1.html
+END
+mic.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfa/mic.xhtml
+END
+false.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfa/false.test
+END
+london-gazette.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/rdfa/london-gazette.html
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar
+END
+05-calendar-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/05-calendar-simple.html
+END
+01-component-vevent-dtstart-date.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/01-component-vevent-dtstart-date.html
+END
+07-component-vevent-description-simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/07-component-vevent-description-simple.html
+END
+09-component-vevent-summary-in-img-alt.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/09-component-vevent-summary-in-img-alt.html
+END
+example5.6.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example5.6.html
+END
+example5.5.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example5.5.html
+END
+example5.4.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example5.4.html
+END
+example5.3.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example5.3.html
+END
+17-component-vevent-description-value-in-subelements.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/17-component-vevent-description-value-in-subelements.html
+END
+10-component-vevent-entity.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/10-component-vevent-entity.html
+END
+04-component-vevent-dtend-datetime.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/04-component-vevent-dtend-datetime.html
+END
+empty-statcvs.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/empty-statcvs.html
+END
+example5.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example5.html
+END
+19-attachments.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/19-attachments.html
+END
+15-calendar-xml-lang.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/15-calendar-xml-lang.html
+END
+example3.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example3.html
+END
+example2.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example2.html
+END
+13-component-vevent-summary-url-property.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/13-component-vevent-summary-url-property.html
+END
+example1.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/example1.html
+END
+12-component-vevent-summary-url-in-same-class.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/12-component-vevent-summary-url-in-same-class.html
+END
+16-calendar-force-outlook.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/16-calendar-force-outlook.html
+END
+02-component-vevent-dtstart-datetime.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/02-component-vevent-dtstart-datetime.html
+END
+11-component-vevent-summary-in-subelements.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/11-component-vevent-summary-in-subelements.html
+END
+03-component-vevent-dtend-date.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/03-component-vevent-dtend-date.html
+END
+06-component-vevent-uri-relative.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/06-component-vevent-uri-relative.html
+END
+18-component-vevent-uid.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/18-component-vevent-uid.html
+END
+08-component-vevent-multiple-classes.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcalendar/08-component-vevent-multiple-classes.html
+END

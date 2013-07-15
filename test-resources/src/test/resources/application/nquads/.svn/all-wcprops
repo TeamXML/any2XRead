@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/nquads
+END
+test2.nq
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/nquads/test2.nq
+END
+test1.nq
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/nquads/test1.nq
+END

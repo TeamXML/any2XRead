@@ -26,7 +26,7 @@
 
   <groupId>org.apache.any23</groupId>
   <artifactId>apache-any23</artifactId>
-  <version>0.9.0-SNAPSHOT</version>
+  <version>0.8.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Apache Any23</name>
@@ -155,9 +155,9 @@
   <mailingLists>
     <mailingList>
       <name>Dev Mailing List</name>
-      <post>dev[at]any23[dot]apache[dot]org</post>
-      <subscribe>dev-subscribe[at]any23[dot]apache[dot]org</subscribe>
-      <unsubscribe>dev-unsubscribe[at]any23[dot]apache[dot]org</unsubscribe>
+      <post>any23-dev[at]apache[dot]org</post>
+      <subscribe>any23-dev-subscribe[at]apache[dot]org</subscribe>
+      <unsubscribe>any23-dev-unsubscribe[at]apache[dot]org</unsubscribe>
       <archive>http://mail-archives.apache.org/mod_mbox/any23-dev/</archive>
       <otherArchives>
         <otherArchive>http://any23-dev.markmail.org/</otherArchive>
@@ -166,9 +166,9 @@
 
     <mailingList>
       <name>User Mailing List</name>
-      <post>user[at]any23[dot]apache[dot]org</post>
-      <subscribe>user-subscribe[at]any23[dot]apache[dot]org</subscribe>
-      <unsubscribe>user-unsubscribe[at]any23[dot]apache[dot]org</unsubscribe>
+      <post>any23-user[at]apache[dot]org</post>
+      <subscribe>any23-user-subscribe[at]apache[dot]org</subscribe>
+      <unsubscribe>any23-user-unsubscribe[at]apache[dot]org</unsubscribe>
       <archive>http://mail-archives.apache.org/mod_mbox/any23-user/</archive>
       <otherArchives>
         <otherArchive>http://any23-user.markmail.org/</otherArchive>
@@ -177,9 +177,9 @@
 
     <mailingList>
       <name>Commits Mailing List</name>
-      <post>commits[at]any23[dot]apache[dot]org</post>
-      <subscribe>commits-subscribe[at]any23[dot]apache[dot]org</subscribe>
-      <unsubscribe>commits-unsubscribe[at]any23[dot]apache[dot]org</unsubscribe>
+      <post>any23-commits[at]apache[dot]org</post>
+      <subscribe>any23-commits-subscribe[at]apache[dot]org</subscribe>
+      <unsubscribe>any23-commits-unsubscribe[at]apache[dot]org</unsubscribe>
       <archive>http://mail-archives.apache.org/mod_mbox/any23-commits/</archive>
       <otherArchives>
         <otherArchive>http://any23-commits.markmail.org/</otherArchive>
@@ -195,17 +195,13 @@
     <module>mime</module>
     <module>encoding</module>
     <module>core</module>
-    <module>plugins/basic-crawler</module>
-    <module>plugins/html-scraper</module>
-    <module>plugins/office-scraper</module>
-    <module>plugins/integration-test</module>
     <module>service</module>
   </modules>
 
   <scm>
-    <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/any23.git</developerConnection>
-    <connection>scm:git:http://git-wip-us.apache.org/repos/asf/any23.git</connection>
-    <url>https://git-wip-us.apache.org/repos/asf/any23.git</url>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/any23/trunk/</developerConnection>
+    <connection>scm:svn:https://svn.apache.org/repos/asf/any23/</connection>
+    <url>https://svn.apache.org/viewvc/any23/</url>
   </scm>
   <issueManagement>
     <system>JIRA</system>
@@ -226,9 +222,9 @@
     <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ssZ</maven.build.timestamp.format>
     <implementation.build>${scmBranch}@r${buildNumber}</implementation.build>
     <implementation.build.tstamp>${implementation.build}; ${maven.build.timestamp}</implementation.build.tstamp>
-    <slf4j.logger.version>1.7.5</slf4j.logger.version>
-    <sesame.version>2.7.2</sesame.version>
-    <latest.stable.released>0.8.0</latest.stable.released>
+    <slf4j.logger.version>1.6.6</slf4j.logger.version>
+    <sesame.version>2.6.9</sesame.version>
+    <latest.stable.released>0.7.0-incubating</latest.stable.released>
 
     <!-- Maven Plugin Versions -->
     <maven-javadoc-plugin.version>2.8</maven-javadoc-plugin.version>
@@ -242,14 +238,14 @@
     <buildnumber-maven-plugin.version>1.0</buildnumber-maven-plugin.version>
     <maven-compiler-plugin.version>2.5.1</maven-compiler-plugin.version>
     <maven-jar-plugin.version>2.3.1</maven-jar-plugin.version>
-    <maven-surefire-plugin.version>2.14.1</maven-surefire-plugin.version>
+    <maven-surefire-plugin.version>2.9</maven-surefire-plugin.version>
     <cobertura-maven-plugin.version>2.5.1</cobertura-maven-plugin.version>
     <maven-site-plugin.version>3.0</maven-site-plugin.version>
     <maven-changes-plugin.version>2.6</maven-changes-plugin.version>
     <maven-project-info-reports-plugin.version>2.4</maven-project-info-reports-plugin.version>
     <maven-jxr-plugin.version>2.3</maven-jxr-plugin.version>
     <maven-checkstyle-plugin.version>2.8</maven-checkstyle-plugin.version>
-    <apache-rat-plugin.version>0.9</apache-rat-plugin.version>
+    <apache-rat-plugin.version>0.7</apache-rat-plugin.version>
     <maven-source-plugin.version>2.1.2</maven-source-plugin.version>
     <maven-gpg-plugin.version>1.4</maven-gpg-plugin.version>
 
@@ -357,11 +353,6 @@
       </dependency>
       <dependency>
         <groupId>org.openrdf.sesame</groupId>
-        <artifactId>sesame-rio-nquads</artifactId>
-        <version>${sesame.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.openrdf.sesame</groupId>
         <artifactId>sesame-rio-n3</artifactId>
         <version>${sesame.version}</version>
       </dependency>
@@ -384,6 +375,41 @@
         <groupId>org.openrdf.sesame</groupId>
         <artifactId>sesame-repository-api</artifactId>
         <version>${sesame.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-xml</artifactId>
+        <version>2.7.0</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-text</artifactId>
+        <version>2.7.0</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-net</artifactId>
+        <version>2.7.0</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-lang</artifactId>
+        <version>2.9.0</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-iteration</artifactId>
+        <version>2.10.0</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-io</artifactId>
+        <version>2.10.0</version>
+      </dependency>
+      <dependency>
+        <groupId>info.aduna.commons</groupId>
+        <artifactId>aduna-commons-concurrent</artifactId>
+        <version>2.7.0</version>
       </dependency>
       <!-- END: Sesame -->
 
@@ -481,11 +507,12 @@
       <id>any23-repository-external</id>
       <url>http://svn.apache.org/repos/asf/any23/repo-ext/</url>
     </repository>
+    <!-- Specific repository for Aduna / Sesame related dependencies. -->
     <repository>
-      <id>sonatype-snapshots</id>
-      <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-      <releases><enabled>false</enabled></releases>
-      <snapshots><enabled>true</enabled></snapshots>
+      <id>aduna-software-release-repo</id>
+      <name>Aduna SW Release Repository</name>
+      <url>http://repo.aduna-software.org/maven2/releases</url>
+      <layout>default</layout>
     </repository>
   </repositories>
 
@@ -767,7 +794,7 @@
       <id>release</id>
       <build>
         <plugins>
-          <!--plugin>
+          <plugin>
             <groupId>org.apache.rat</groupId>
             <artifactId>apache-rat-plugin</artifactId>
             <version>${apache-rat-plugin.version}</version>
@@ -783,6 +810,7 @@
                     <exclude>**/.gitignore</exclude>
                     <exclude>**/any23-gcode-CHANGES.txt</exclude>
                     <exclude>**/NOTICE-*.txt</exclude>
+                    <exclude>DISCLAIMER.txt</exclude>
                     <exclude>LICENSE.txt</exclude>
                     <exclude>NOTICE.txt</exclude>
                     <exclude>**/README.txt</exclude>
@@ -801,7 +829,7 @@
                     <exclude>maven-eclipse.xml</exclude>
                     <exclude>.externalToolBuilders/**</exclude>
                     <exclude>.git/**</exclude>
-                    < TODO restore them once ANY23-98 is fixed >
+                    <!-- TODO restore them once ANY23-98 is fixed -->
                     <exclude>**/application/nquads/test1.nq</exclude>
                     <exclude>**/application/nquads/test2.nq</exclude>
                     <exclude>**/application/rdfn3/test1</exclude>
@@ -809,7 +837,7 @@
                     <exclude>**/application/rdfn3/test3</exclude>
                     <exclude>**/application/rss1/test1</exclude>
                     <exclude>**/cli/rover-test1.nq</exclude>
-                    < resources ALv2 compatible resources >
+                    <!-- resources ALv2 compatible resources -->
                     <exclude>**/css/bootstrap.min.css</exclude>
                     <exclude>**/js/bootstrap-modal.js</exclude>
                     <exclude>**/js/jquery-1.7.2.min.js</exclude>
@@ -818,7 +846,7 @@
                 </configuration>
               </execution>
             </executions>
-          </plugin-->
+          </plugin>
 
           <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -975,4 +1003,3 @@
   </profiles>
 
 </project>
-

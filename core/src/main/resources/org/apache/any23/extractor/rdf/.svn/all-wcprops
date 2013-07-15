@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/resources/org/apache/any23/extractor/rdf
+END
+example-nquads.nq
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/resources/org/apache/any23/extractor/rdf/example-nquads.nq
+END
+example-ntriples.nt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/resources/org/apache/any23/extractor/rdf/example-ntriples.nt
+END
+example-rdfxml.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/resources/org/apache/any23/extractor/rdf/example-rdfxml.rdf
+END
+example-trix.trx
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/resources/org/apache/any23/extractor/rdf/example-trix.trx
+END
+example-turtle.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/resources/org/apache/any23/extractor/rdf/example-turtle.ttl
+END

@@ -40,7 +40,7 @@ import java.io.IOException;
  * Test case for {@link NTriplesExtractor}.
  *
  * @author Michele Mostarda ( michele.mostarda@gmail.com )
- * @version $Id$
+ * @version $Id: TurtleExtractorTest.java 1231556 2012-01-14 18:47:58Z mostarda $
  */
 public class TurtleExtractorTest {
 

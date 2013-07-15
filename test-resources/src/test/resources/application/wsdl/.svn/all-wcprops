@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/wsdl
+END
+error.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/wsdl/error.wsdl
+END
+test1
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/wsdl/test1
+END

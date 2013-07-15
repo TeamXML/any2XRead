@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/java/org/apache/any23/servlet
+END
+WebResponder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/java/org/apache/any23/servlet/WebResponder.java
+END
+RedirectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/java/org/apache/any23/servlet/RedirectServlet.java
+END
+Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/java/org/apache/any23/servlet/Servlet.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/java/org/apache/any23/servlet/package-info.java
+END

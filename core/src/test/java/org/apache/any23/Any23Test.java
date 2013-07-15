@@ -210,43 +210,6 @@ public class Any23Test extends Any23OnlineTestBase {
     }
 
     /**
-     * Tests out the second code snipped used in <i>Developer Manual</i>.
-     *
-     * @throws IOException
-     * @throws org.apache.any23.extractor.ExtractionException
-     */
-    @Ignore("ANY23-140 - Revise Any23 tests to remove fetching of web content")
-    @Test
-    public void testDemoCodeSnippet2() throws Exception{
-        assumeOnlineAllowed();
-
-        /*1*/ Any23 runner = new Any23();
-        /*2*/ runner.setHTTPUserAgent("test-user-agent");
-        /*3*/ HTTPClient httpClient = runner.getHTTPClient();
-        /*4*/ DocumentSource source = new HTTPDocumentSource(
-                 httpClient,
-                 "http://dbpedia.org/resource/Trento"
-              );
-        /*5*/ ByteArrayOutputStream out = new ByteArrayOutputStream();
-        /*6*/ TripleHandler handler = new NTriplesWriter(out);
-              try {
-        /*7*/     runner.extract(source, handler);
-              } finally {
-        /*8*/     handler.close();
-              }
-        /*9*/ String n3 = out.toString("UTF-8");
-
-        /*
-            <http://dbpedia.org/resource/Trent> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Trento> .
-            <http://dbpedia.org/resource/Andrea_Pozzo> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Trento> .
-            <http://dbpedia.org/resource/Union_for_Trentino> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Trento> .
-            [...]
-         */
-        logger.debug("n3: " + n3);
-        Assert.assertTrue(n3.length() > 0);
-    }
-
-    /**
      * This test checks the extraction behavior when the library is used programatically.
      * This test is related to the issue #45, to verify the different behaviors between Maven and Ant.
      * The behavior was related to a 2nd-level dependency introduced by Maven.
@@ -460,7 +423,6 @@ public class Any23Test extends Any23OnlineTestBase {
      * @throws IOException
      * @throws ExtractionException
      */
-    @Ignore("ANY23-140 - Revise Any23 tests to remove fetching of web content")
     @Test
     public void testXMLMimeTypeManagementViaURL() throws IOException, ExtractionException {
         assumeOnlineAllowed();
@@ -471,18 +433,6 @@ public class Any23Test extends Any23OnlineTestBase {
         final ExtractionReport report = any23.extract("http://www.nativeremedies.com/XML/combos.xml", rth);
         Assert.assertFalse(report.hasMatchingExtractors());
         Assert.assertEquals(0, cth.getCount());
-    }
-
-    @Ignore("ANY23-140 - Revise Any23 tests to remove fetching of web content")
-    @Test
-    public void testBlankNodesViaURL() throws IOException, ExtractionException {
-        assumeOnlineAllowed();
-        final Any23 any23 = new Any23();
-        any23.setHTTPUserAgent("test-user-agent");
-        final CountingTripleHandler cth = new CountingTripleHandler(false);
-        final ReportingTripleHandler rth = new ReportingTripleHandler(cth);
-        final ExtractionReport report = any23.extract("http://www.usarab.org/news/?tag=england", rth);
-        Assert.assertTrue( report.hasMatchingExtractors() );
     }
 
     @Test

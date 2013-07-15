@@ -39,7 +39,7 @@ import java.io.IOException;
  *
  * @author Davide Palmisano ( dpalmisano@gmail.com )
  * @author Michele Mostarda ( michele.mostarda@gmail.com )
- * @version $Id$
+ * @version $Id: HCalendarExtractorTest.java 1435720 2013-01-19 21:47:22Z lewismc $
  */
 public class HCalendarExtractorTest extends AbstractExtractorTestCase {
 

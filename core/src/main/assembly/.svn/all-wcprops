@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/assembly
+END
+bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/assembly/bin.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/assembly/README.txt
+END
+LICENSE-with-deps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/assembly/LICENSE-with-deps.txt
+END
+NOTICE-with-deps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/assembly/NOTICE-with-deps.txt
+END

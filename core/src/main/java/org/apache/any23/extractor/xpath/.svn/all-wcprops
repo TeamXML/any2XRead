@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath
+END
+XPathExtractionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/XPathExtractionRule.java
+END
+TemplatePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/TemplatePredicate.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/Variable.java
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/Term.java
+END
+TemplateObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/TemplateObject.java
+END
+XPathExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/XPathExtractor.java
+END
+TemplateXPathExtractionRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/TemplateXPathExtractionRule.java
+END
+TemplateXPathExtractionRuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/TemplateXPathExtractionRuleImpl.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/package-info.java
+END
+TemplateGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/TemplateGraph.java
+END
+XPathExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/XPathExtractorFactory.java
+END
+TemplateSubject.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/TemplateSubject.java
+END
+QuadTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/xpath/QuadTemplate.java
+END

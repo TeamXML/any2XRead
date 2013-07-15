@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata
+END
+MicrodataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/MicrodataParser.java
+END
+ItemPropValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/ItemPropValue.java
+END
+ItemProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/ItemProp.java
+END
+MicrodataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1443836/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/MicrodataExtractor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/package-info.java
+END
+MicrodataExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/MicrodataExtractorFactory.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/Item.java
+END
+MicrodataParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/MicrodataParserException.java
+END
+ItemScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/ItemScope.java
+END
+MicrodataParserReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/microdata/MicrodataParserReport.java
+END

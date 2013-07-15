@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/writer
+END
+TripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/writer/TripleHandler.java
+END
+FormatWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/writer/FormatWriter.java
+END
+WriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/writer/WriterFactory.java
+END
+WriterFactoryRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/writer/WriterFactoryRegistry.java
+END
+TripleHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/api/src/main/java/org/apache/any23/writer/TripleHandlerException.java
+END

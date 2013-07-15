@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1435729/any23/trunk/test-resources/src/test/resources/microformats/hcard
+END
+31-include.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/31-include.html
+END
+23-abbr-title-everything.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/23-abbr-title-everything.html
+END
+26-ancestors.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/26-ancestors.html
+END
+25-geo-abbr.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/25-geo-abbr.html
+END
+11-multiple-urls.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/11-multiple-urls.html
+END
+lastfm-adr-multi-address.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/lastfm-adr-multi-address.html
+END
+09-relative-url-xmlbase-1.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/09-relative-url-xmlbase-1.html
+END
+13-photo-logo.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/13-photo-logo.html
+END
+12-img-src-url.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/12-img-src-url.html
+END
+41-ignore-children.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/41-ignore-children.html
+END
+28-bday-datetime.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/28-bday-datetime.html
+END
+36-categories.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/36-categories.html
+END
+01-tantek-basic.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/01-tantek-basic.html
+END
+02-multiple-class-names-on-vcard.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/02-multiple-class-names-on-vcard.html
+END
+18-object-data-http-uri.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/18-object-data-http-uri.html
+END
+35-include-pattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/35-include-pattern.html
+END
+linkedin-michelemostarda.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/linkedin-michelemostarda.html
+END
+29-bday-datetime-timezone.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/29-bday-datetime-timezone.html
+END
+06-mailto-2.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/06-mailto-2.html
+END
+27-bday-date.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/27-bday-date.html
+END
+15-honorific-additional-single.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/15-honorific-additional-single.html
+END
+34-notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/34-notes.html
+END
+07-relative-url.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/07-relative-url.html
+END
+40-fn-inside-adr.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/40-fn-inside-adr.html
+END
+performance.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/performance.html
+END
+30-fn-org.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/30-fn-org.html
+END
+21-tel.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/21-tel.html
+END
+08-relative-url-base.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/08-relative-url-base.html
+END
+14-img-src-data-url.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/14-img-src-data-url.html
+END
+20-image-alt.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/20-image-alt.html
+END
+38-uid.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/38-uid.html
+END
+19-object-data-data-uri.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1435729/any23/trunk/test-resources/src/test/resources/microformats/hcard/19-object-data-data-uri.html
+END
+16-honorific-additional-multiple.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/16-honorific-additional-multiple.html
+END
+22-adr.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/22-adr.html
+END
+37-singleton.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/37-singleton.html
+END
+03-implied-n.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/03-implied-n.html
+END
+05-mailto-1.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/05-mailto-1.html
+END
+infinite-loop.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/infinite-loop.html
+END
+10-relative-url-xmlbase-2.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/10-relative-url-xmlbase-2.html
+END
+04-ignore-unknowns.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/04-ignore-unknowns.html
+END
+32-header.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/32-header.html
+END
+33-area.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/33-area.html
+END
+17-email-not-uri.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/microformats/hcard/17-email-not-uri.html
+END

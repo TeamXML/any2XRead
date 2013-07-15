@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa
+END
+drupal-test-frontpage.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/drupal-test-frontpage.html
+END
+oreilly-invalid-datatype.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/oreilly-invalid-datatype.html
+END
+null-datatype-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/null-datatype-test.html
+END
+rel-rev.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/rel-rev.html
+END
+basic.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/basic.html
+END
+goodrelations-rdfa10-expected.nq
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/goodrelations-rdfa10-expected.nq
+END
+vocab.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/vocab.html
+END
+rdfa-issue186-1.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/rdfa-issue186-1.xhtml
+END
+rdfa-issue186-2.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/rdfa-issue186-2.xhtml
+END
+incomplete-triples.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/incomplete-triples.html
+END
+opengraph-structured-properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/opengraph-structured-properties.html
+END
+xmlliteral-datatype-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/xmlliteral-datatype-test.html
+END
+rdfa-11-curies.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/rdfa-11-curies.html
+END
+base-handling.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/base-handling.xhtml
+END
+object-resource-test.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/object-resource-test.html
+END
+base-handling.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/base-handling.html
+END
+goodrelations-rdfa11.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/goodrelations-rdfa11.html
+END
+goodrelations-rdfa10.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/goodrelations-rdfa10.html
+END
+rel-href.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/rel-href.html
+END
+ansa_2010-02-26_12645863.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/html/rdfa/ansa_2010-02-26_12645863.html
+END

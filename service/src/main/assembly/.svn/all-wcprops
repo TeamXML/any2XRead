@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly
+END
+NOTICE-without-deps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/NOTICE-without-deps.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/README.txt
+END
+LICENSE-with-deps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/LICENSE-with-deps.txt
+END
+NOTICE-server-embedded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/NOTICE-server-embedded.txt
+END
+without-deps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/without-deps.xml
+END
+with-deps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/with-deps.xml
+END
+LICENSE-without-deps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/LICENSE-without-deps.txt
+END
+NOTICE-with-deps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/NOTICE-with-deps.txt
+END
+LICENSE-server-embedded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/LICENSE-server-embedded.txt
+END
+server-embedded.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/server-embedded.xml
+END
+prepare-war-legals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1383420/any23/trunk/service/src/main/assembly/prepare-war-legals.xml
+END

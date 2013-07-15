@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer
+END
+NTriplesWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/NTriplesWriterFactory.java
+END
+BenchmarkTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/BenchmarkTripleHandler.java
+END
+TurtleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/TurtleWriter.java
+END
+JSONWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/JSONWriterFactory.java
+END
+LoggingTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/LoggingTripleHandler.java
+END
+URIListWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/URIListWriterFactory.java
+END
+TriXWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/TriXWriterFactory.java
+END
+CompositeTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/CompositeTripleHandler.java
+END
+RDFWriterTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/RDFWriterTripleHandler.java
+END
+TriXWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/TriXWriter.java
+END
+ReportingTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/ReportingTripleHandler.java
+END
+RepositoryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/RepositoryWriter.java
+END
+URIListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/URIListWriter.java
+END
+TurtleWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/TurtleWriterFactory.java
+END
+JSONWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/JSONWriter.java
+END
+NTriplesWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/NTriplesWriter.java
+END
+CountingTripleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/CountingTripleHandler.java
+END
+NQuadsWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/NQuadsWriterFactory.java
+END
+RDFXMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/RDFXMLWriter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/package-info.java
+END
+RDFXMLWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/RDFXMLWriterFactory.java
+END
+NQuadsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/writer/NQuadsWriter.java
+END

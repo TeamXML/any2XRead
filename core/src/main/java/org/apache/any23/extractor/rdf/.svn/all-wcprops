@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf
+END
+NTriplesExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/NTriplesExtractorFactory.java
+END
+NTriplesExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/NTriplesExtractor.java
+END
+RDFXMLExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/RDFXMLExtractorFactory.java
+END
+RDFHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/RDFHandlerAdapter.java
+END
+TurtleExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/TurtleExtractor.java
+END
+RDFParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/RDFParserFactory.java
+END
+TriXExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/TriXExtractor.java
+END
+NQuadsExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/NQuadsExtractor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/package-info.java
+END
+NQuadsExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/NQuadsExtractorFactory.java
+END
+TriXExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/TriXExtractorFactory.java
+END
+TurtleExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1448870/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/TurtleExtractorFactory.java
+END
+BaseRDFExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/BaseRDFExtractor.java
+END
+RDFXMLExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/rdf/RDFXMLExtractor.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/csv
+END
+CSVExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/csv/CSVExtractor.java
+END
+CSVExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/main/java/org/apache/any23/extractor/csv/CSVExtractorFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/extractor/csv/package-info.java
+END

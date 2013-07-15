@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator
+END
+DefaultValidationReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/DefaultValidationReport.java
+END
+ValidationReportBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/ValidationReportBuilder.java
+END
+DefaultValidationReportBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/DefaultValidationReportBuilder.java
+END
+ValidationReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/ValidationReport.java
+END
+ValidationReportSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/ValidationReportSerializer.java
+END
+SerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/SerializationException.java
+END
+ValidatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/ValidatorException.java
+END
+DOMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/DOMDocument.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/Rule.java
+END
+DefaultDOMDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/DefaultDOMDocument.java
+END
+EmptyValidationReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/EmptyValidationReport.java
+END
+XMLValidationReportSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/XMLValidationReportSerializer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/package-info.java
+END
+Fix.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/Fix.java
+END
+RuleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/RuleContext.java
+END
+DefaultRuleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/DefaultRuleContext.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/Validator.java
+END
+DefaultValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/main/java/org/apache/any23/validator/DefaultValidator.java
+END

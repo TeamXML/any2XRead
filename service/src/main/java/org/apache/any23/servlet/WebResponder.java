@@ -17,48 +17,38 @@
 
 package org.apache.any23.servlet;
 
-import org.apache.any23.Any23;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.PrintStream;
+import java.io.UnsupportedEncodingException;
+import java.nio.charset.Charset;
+import java.util.Collection;
+
+import javax.servlet.ServletOutputStream;
+import javax.servlet.http.HttpServletResponse;
+
 import org.apache.any23.ExtractionReport;
 import org.apache.any23.extractor.ExtractionException;
 import org.apache.any23.extractor.ExtractionParameters;
 import org.apache.any23.extractor.Extractor;
 import org.apache.any23.extractor.IssueReport;
-import org.apache.any23.filter.IgnoreAccidentalRDFa;
-import org.apache.any23.filter.IgnoreTitlesOfEmptyDocuments;
 import org.apache.any23.source.DocumentSource;
 import org.apache.any23.validator.SerializationException;
 import org.apache.any23.validator.XMLValidationReportSerializer;
-import org.apache.any23.writer.CompositeTripleHandler;
-import org.apache.any23.writer.CountingTripleHandler;
 import org.apache.any23.writer.FormatWriter;
 import org.apache.any23.writer.ReportingTripleHandler;
-import org.apache.any23.writer.TripleHandler;
 import org.apache.any23.writer.WriterFactory;
 import org.apache.any23.writer.WriterFactoryRegistry;
-import sun.security.validator.ValidatorException;
 
-import javax.servlet.ServletOutputStream;
-import javax.servlet.http.HttpServletResponse;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.PrintStream;
-import java.nio.charset.Charset;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
+import sun.security.validator.ValidatorException;
 
 /**
  * This class is responsible for building the {@link Servlet}
  * web response.
  */
-class WebResponder {
+class WebResponder extends BaseExtractor{
 
     private static final WriterFactoryRegistry writerRegistry = WriterFactoryRegistry.getInstance();
-
-    /**
-     * Library facade.
-     */
-    private final Any23 runner;
 
     /**
      * Servlet for which building the response.
@@ -68,17 +58,7 @@ class WebResponder {
     /**
      * Servlet response object.
      */
-    private HttpServletResponse response;
-
-    /**
-     * RDF triple writer.
-     */
-    private TripleHandler rdfWriter = null;
-
-    /**
-     * Error and statistics reporter.
-     */
-    private ReportingTripleHandler reporter = null;
+    private HttpServletResponse response;    
 
     /**
      * Type of expected output.
@@ -91,14 +71,9 @@ class WebResponder {
     private ByteArrayOutputStream byteOutStream = new ByteArrayOutputStream();
 
     public WebResponder(Servlet any23servlet, HttpServletResponse response) {
+    	super();
         this.any23servlet = any23servlet;
         this.response = response;
-        this.runner = new Any23();
-        runner.setHTTPUserAgent("Any23-Servlet");
-    }
-
-    protected Any23 getRunner() {
-        return runner;
     }
 
     public void runExtraction(
@@ -111,8 +86,8 @@ class WebResponder {
         if (!initRdfWriter(format, report, annotate)) return;
         final ExtractionReport er;
         try {
-            er = runner.extract(eps, in, rdfWriter);
-            rdfWriter.close();
+            er = getRunner().extract(eps, in, getRdfWriter());
+            closeWriter();
             if (! er.hasMatchingExtractors() ) {
                 sendError(
                         415,
@@ -146,8 +121,8 @@ class WebResponder {
         }
 
         /* *** No triples found. *** */
-        any23servlet.log("Extraction complete, " + reporter.getTotalTriples() + " triples");
-        if (reporter.getTotalTriples() == 0) {
+        any23servlet.log("Extraction complete, " + getReporter().getTotalTriples() + " triples");
+        if (getReporter().getTotalTriples() == 0) {
             sendError(
                     501,
                     "Extraction completed. No triples have been found.",
@@ -157,24 +132,28 @@ class WebResponder {
             return;
         }
 
-        // Regular response.
+        sendResponse(report, er, byteOutStream.toByteArray());
+    }
+
+	public void sendResponse(boolean report, final ExtractionReport er, final byte[] data)
+			throws IOException, UnsupportedEncodingException {
+		// Regular response.
         response.setContentType(outputMediaType);
         response.setStatus(200);
         // Set the output encoding equals to the input one.
-        final String charsetEncoding = er.getEncoding();
-        if (Charset.isSupported(charsetEncoding)) {
+        if (er != null && Charset.isSupported(er.getEncoding())) {
             response.setCharacterEncoding(er.getEncoding());
         } else {
             response.setCharacterEncoding("UTF-8");
         }
 
         final ServletOutputStream sos = response.getOutputStream();
-        final byte[] data = byteOutStream.toByteArray();
+        System.out.println(new String(data, "UTF-8"));
         if(report) {
             final PrintStream ps = new PrintStream(sos);
             try {
                 printHeader(ps);
-                printResponse(reporter, er, data, ps);
+                printResponse(getReporter(), er, data, ps);
             } catch (Exception e) {
                 throw new RuntimeException("An error occurred while serializing the output response.", e);
             } finally {
@@ -183,7 +162,7 @@ class WebResponder {
         } else {
             sos.write(data);
         }
-    }
+	}
 
     public void sendError(int code, String msg, boolean report) throws IOException {
         sendError(code, msg, null, null, report);
@@ -213,7 +192,7 @@ class WebResponder {
     
     private void printIssueReport(ExtractionReport er, PrintStream ps) {
         ps.println("<issueReport>");
-        for(Extractor extractor : er.getMatchingExtractors()) {
+        for(Extractor<?> extractor : er.getMatchingExtractors()) {
             final String name = extractor.getDescription().getExtractorName();
             final Collection<IssueReport.Issue> extractorIssues = er.getExtractorIssues(name);
             if(extractorIssues.isEmpty()) continue;
@@ -320,17 +299,9 @@ class WebResponder {
         FormatWriter fw = factory.getRdfWriter(byteOutStream);
         fw.setAnnotated(annotate);
         outputMediaType = factory.getMimeType();
-        List<TripleHandler> tripleHandlers = new ArrayList<TripleHandler>();
-        tripleHandlers.add(new IgnoreAccidentalRDFa(fw));
-        tripleHandlers.add(new CountingTripleHandler());
-        rdfWriter = new CompositeTripleHandler(tripleHandlers);
-        reporter = new ReportingTripleHandler(rdfWriter);
-        rdfWriter = new IgnoreAccidentalRDFa(
-            new IgnoreTitlesOfEmptyDocuments(reporter),
-            true    // suppress stylesheet triples.
-        );
+        initializeWriter(fw);
         return true;
-    }
+    }	
 
     private WriterFactory getFormatWriter(String format) throws IOException {
         final String finalFormat;
@@ -354,6 +325,10 @@ class WebResponder {
         }
         final WriterFactory writer = writerRegistry.getWriterByIdentifier(finalFormat);
         return writer;
+    }
+    
+    public void setOutPutMediaType(String type){
+    	outputMediaType = type;
     }
 
 }

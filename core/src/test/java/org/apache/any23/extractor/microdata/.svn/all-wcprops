@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/microdata
+END
+MicrodataParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1383420/any23/trunk/core/src/test/java/org/apache/any23/extractor/microdata/MicrodataParserTest.java
+END
+MicrodataExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1435720/any23/trunk/core/src/test/java/org/apache/any23/extractor/microdata/MicrodataExtractorTest.java
+END

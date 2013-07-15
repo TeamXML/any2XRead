@@ -1,0 +1,71 @@
+10
+
+dir
+1496389
+http://svn.apache.org/repos/asf/any23/trunk/src/site
+http://svn.apache.org/repos/asf
+
+
+
+2012-09-12T16:32:08.179973Z
+1384024
+mostarda
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+apt
+dir
+
+resources
+dir
+
+site.xml
+file
+
+
+
+
+2013-06-25T09:17:38.000000Z
+38f3c7cb414e11ace4f88601f576c071
+2012-09-12T14:33:36.848940Z
+1383968
+mostarda
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4580
+
+xdoc
+dir
+

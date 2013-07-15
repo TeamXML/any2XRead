@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 148
+.settings
+bldlib
+bldtest
+any23.war
+bldsrc
+any23-*.tar.gz
+any23-*.zip
+*.ipr
+*.iws
+*.iml
+target
+javadoc
+*.ser
+maven-eclipse.xml
+.externalToolBuilders
+
+END

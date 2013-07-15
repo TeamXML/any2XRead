@@ -36,7 +36,7 @@ import java.io.PrintStream;
  * Test case for {@link ExtractionResultImpl} class.
  *
  * @author Michele Mostarda ( michele.mostarda@gmail.com )
- * @version $Id$
+ * @version $Id: ExtractionResultImplTest.java 1304362 2012-03-23 14:16:04Z mostarda $
  */
 public class ExtractionResultImplTest {
 

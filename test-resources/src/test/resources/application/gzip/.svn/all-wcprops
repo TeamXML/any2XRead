@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/gzip
+END
+test2
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/gzip/test2
+END
+test1.gzip
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1383420/any23/trunk/test-resources/src/test/resources/application/gzip/test1.gzip
+END
